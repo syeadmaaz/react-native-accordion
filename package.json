@@ -1,8 +1,9 @@
 {
-  "name": "react-native-accordion",
+  "name": "@syeadmaaz/react-native-accordion",
   "version": "1.0.0",
   "description": "User customisable react native accordion with show content button downwards",
-  "main": "app.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "mocha"
   },
