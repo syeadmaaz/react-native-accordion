@@ -56,14 +56,14 @@ You can also show arrow button on the bottom and override accordion header conte
 | **`style`**               | Optional styling for the container              |                       |
 | **`renderButtonContent`** | Render own accordion bottom button              | `(showContent) => {}` |
 
-## Running example app
+<!-- ## Running example app
 
 ```sh
 git clone git@github.com:syeadmaaz/react-native-accordion.git
 cd react-native-accordion/example
 yarn
 npm run ios
-```
+``` -->
 
 ## License
 
